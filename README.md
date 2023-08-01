@@ -5,8 +5,7 @@
 영리하게 공부하고 효율적으로 개발하는 프론트엔드 개발자 김민재라고 합니다!
 
 ### 🤙 Contact
-- email : skathd3402@gmail.com
-- phone : 010-4516-0123
+- email : skathd3402@gmail.com / skathd3402@naver.com
 - instagram : @crow_is_cute
 - blog : <a href="https://crow07.tistory.com/?page=1">[🔗 까악이 블로그]</a>
 
