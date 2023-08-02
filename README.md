@@ -9,7 +9,7 @@
 - instagram : <a href="https://www.instagram.com/crow_is_cute/">[🔗 까악이 인스타]</a>
 - blog : <a href="https://crow07.tistory.com/?page=1">[🔗 까악이 블로그]</a>
 
-### 🧑‍💻 Projects
+### 🧑‍💻 Representative Project
 
 - 편의점 칵테일 추천 서비스    <a href="https://github.com/codestates-seb/seb44_main_002">[🔗 프로젝트 소개]</a> <a href="https://comfortablecocktail.netlify.app/">[🔗 배포 링크]</a>
 - 영화 랭킹 웹사이트   <a href="https://github.com/FE-Sprint-Study/Namu-Movie">[🔗 프로젝트 소개]</a> <a href="https://scania-namumovie.netlify.app/">[🔗 배포 링크]</a>
