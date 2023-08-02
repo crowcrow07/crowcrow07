@@ -7,7 +7,7 @@
 ## 🤙 Contact
 - email : skathd3402@gmail.com / skathd3402@naver.com
 - instagram : <a href="https://www.instagram.com/crow_is_cute/">[🔗 까악이 인스타]</a>
-- blog : <a href="https://crow07.tistory.com/?page=1">[🔗 까악이 블로그]</a>
+- blog : <a href="https://crow07.tistory.com/?page=1">[🔗 23년 2월에 시작해서 포스팅 100개를 넘긴 까악이 블로그]</a>
 
 ## 🧑‍💻 Representative Project
 
