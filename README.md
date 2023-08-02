@@ -4,18 +4,18 @@
 - 프론트엔드 꿈을 꾼지 6개월만에 다양한 기술 스택을 보유했으며, 지금도 성장을 멈추지않습니다.
 - 협업 프로젝트 팀 리더 경험이 여러번 있으며, 팀원과의 소통뿐만 아니라 프로젝트을 완수하겠다는 책임감을 갖고있습니다.
 
-### 🤙 Contact
+## 🤙 Contact
 - email : skathd3402@gmail.com / skathd3402@naver.com
 - instagram : <a href="https://www.instagram.com/crow_is_cute/">[🔗 까악이 인스타]</a>
 - blog : <a href="https://crow07.tistory.com/?page=1">[🔗 까악이 블로그]</a>
 
-### 🧑‍💻 Representative Project
+## 🧑‍💻 Representative Project
 
 - 편의점 칵테일 추천 서비스    <a href="https://github.com/codestates-seb/seb44_main_002">[🔗 프로젝트 소개]</a> <a href="https://comfortablecocktail.netlify.app/">[🔗 배포 링크]</a>
 - 영화 랭킹 웹사이트   <a href="https://github.com/FE-Sprint-Study/Namu-Movie">[🔗 프로젝트 소개]</a> <a href="https://scania-namumovie.netlify.app/">[🔗 배포 링크]</a>
 
 
-### ⚡️ Skills
+## ⚡️ Skills
 
 - FrontEnd Main Stacks <br />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">   
